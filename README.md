@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./lollmaoCapture.PNG" alt="Header"/>
+  <img src="./header.png" alt="Header"/>
 </p>
 <h1 align="center">NullRoot</h1>
 <p align="center">
@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img src="./footer.png" alt="Footer"/>
+  <img src="./lollmaoCapture.PNG" alt="Footer"/>
 </p>
