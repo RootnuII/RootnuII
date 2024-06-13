@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-   <! ––<img src="./lollmaoCapture.png" alt="Footer"/> ––>
+   <! ––<img src="./lollmaoCapture.png" alt="Footer"/> 
 </p>
