@@ -26,5 +26,5 @@
 </p>
 
 <p align="center">
-  <img src="./lollmaoCapture.PNG" alt="Footer"/>
+  <img src="./lollmaoCapture.removed" alt="Footer"/>
 </p>
